@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "analectasacrasp05pitrgoog_0005.png"; bbox 0 0 4036 6117; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 676 2354 2958 2789">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 676 2354 2958 2789">
+     <span class='ocr_line' id='line_1_1' title="bbox 676 2354 2958 2649; baseline -0.002 -94"><span class='ocrx_word' id='word_1_1' title='bbox 676 2474 861 2555; x_wconf 53' lang='lat' dir='ltr'><strong>Aac»</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 802 2354 1409 2649; x_wconf 37' lang='lat' dir='ltr'><strong>&amp;cefff</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1407 2414 2058 2555; x_wconf 43' lang='lat' dir='ltr'><strong>V‘sss-ff‘</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2087 2374 2958 2607; x_wconf 50' lang='lat' dir='ltr'><strong>fflffff</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 997 2654 2738 2789; baseline 0.002 -6"><span class='ocrx_word' id='word_1_5' title='bbox 997 2654 1992 2788; x_wconf 81' lang='lat' dir='ltr'><strong>ANALECTA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2138 2659 2738 2789; x_wconf 82' lang='lat' dir='ltr'><strong>SACRA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1442 3058 2102 3169">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1442 3058 2102 3169">
+     <span class='ocr_line' id='line_1_3' title="bbox 1442 3058 2102 3169; baseline 0.01 -7"><span class='ocrx_word' id='word_1_7' title='bbox 1442 3157 1447 3162; x_wconf 85' lang='grc'><strong><em>,</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1633 3058 2102 3169; x_wconf 88' lang='lat' dir='ltr'><strong>T.VIII.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
